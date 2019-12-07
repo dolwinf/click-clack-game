@@ -11,9 +11,9 @@
   text-align: center;
   background: black;
   justify-content: center;
-  margin: 20px;
+  margin: 50px;
 }
 
 .card > .img-container > img {
-  width: 200px;
+  width: 150px;
 }
